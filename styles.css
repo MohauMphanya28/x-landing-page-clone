@@ -141,6 +141,7 @@ body {
   height: 100vh;
   display: flex;
   overflow-y: scroll;
+  overflow-x: hidden;
   scrollbar-color: rgb(62, 65, 68) rgb(22, 24, 28);
 }
 
